@@ -32,7 +32,7 @@ const HomePage = () => {
             </ul>
           </div>
         </section>
-        <img src="rajasthanp.jpg" alt="" className='rounded-xl mt-8'/>
+        <img src="police.jpg" alt="" className='rounded-xl mt-8'/>
       </main>
 
       <footer className="bg-dark-green text-white text-center py-4 mt-8">

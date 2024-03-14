@@ -19,7 +19,7 @@ const SelectMap = ({ onDataSubmit }) => {
       setLoading(false);
 
       const map = new window.google.maps.Map(document.getElementById("map"), {
-        center: { lat: 18.990363300616675, lng: 73.12767009558458 },
+        center: { lat: 18.990363300616675, lng: 73.12767009558458  },
         zoom: 9,
       });
       const input = document.getElementById("searchInput");
