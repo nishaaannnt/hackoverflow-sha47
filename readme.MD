@@ -1,8 +1,8 @@
-# SHA-47 Geo-Tagging System
+# SHA-47 Geo-Tagging System - Drishti
 
 ## Hackoverflow 2.0 Project
 
-Team SHA-47 Geo-Tagging System, developed for the Hackoverflow 2.0. This comprehensive system aims to enhance public safety and streamline law enforcement efforts by geo-tagging privately owned surveillance cameras.
+Team SHA-47 Geo-Tagging System named - Drishti, developed for the Hackoverflow 2.0. This comprehensive system aims to enhance public safety and streamline law enforcement efforts by geo-tagging privately owned surveillance cameras.
 
 ## Problem Statement
 
