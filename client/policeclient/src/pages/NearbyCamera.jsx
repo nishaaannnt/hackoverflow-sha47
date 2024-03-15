@@ -3,6 +3,7 @@ import axios from "axios";
 import { useAuth } from "../context/AuthContext";
 import { Link } from "react-router-dom";
 import CamNearby from "../components/CamNearby";
+import { toast } from "react-toastify";
 
 const NearbyCamera = () => {
   const [latitude, setLatitude] = useState();
@@ -17,8 +18,14 @@ const NearbyCamera = () => {
   const handleLocationSubmit = async (e) => {
     try {
       e.preventDefault();
+      if( radius > 1000 ){
+        toast.error("Distance Limit Surpassed");
+        return;
+      }
+      
       setLoading(true);
       setViewOnMap(false);
+
 
       const response = await axios.post(
         "http://localhost:3001/api/camera/user/nearbycamera",

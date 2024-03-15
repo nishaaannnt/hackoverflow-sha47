@@ -53,7 +53,7 @@ const Router = () => {
         <Route path="/settings" element={<Settings />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
-      
+        <Route path="/nearby" element={<NearbyCamera />} />
       </Routes>
     </div>
     </div>
