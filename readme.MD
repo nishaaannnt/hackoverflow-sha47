@@ -64,8 +64,8 @@ Here are some project snapshots -
 - **Backend/API:** ExpressJS, NodeJS
 - **Database:** PostgreSQL
 - **Maps API:** Google Maps 
-- **Video Processing:** OpenCV, Tensorflow
-- **Deployment:** AWS
+- **Video Processing:** OpenCV, Tensorflow,YOLOv8
+
 
 ### By Team SHA-47
 
