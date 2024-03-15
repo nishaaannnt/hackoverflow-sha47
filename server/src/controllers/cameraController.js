@@ -105,6 +105,7 @@ const updateCameraById = async (req, res) => {
 
     const result = await pool.query(query, values);
 
+    
     if (result.rows.length > 0) {
       res.json(result.rows[0]);
     } else {
