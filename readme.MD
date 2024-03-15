@@ -58,6 +58,57 @@ Here are some project snapshots -
 
 ## Implementation Details
 
+## How to Run 
+
+   Clone the project
+
+```bash
+  git clone https://github.com/nishaaannnt/hackoverflow-sha47.git
+```
+
+Go to the project directory
+
+```bash
+  cd hackoverflow-sha47
+```
+
+ - There are two folder -> client and server
+
+ ### 1.  For client  
+ - client has 2 folders policeclient and camclient
+ - In both these folders run the following command
+
+Install dependencies
+
+```bash
+  npm install
+```
+Run them locally 
+
+```bash
+  npm run dev
+```
+
+ ### 2.  For Server 
+
+Install dependencies
+
+ ```bash
+  npm install
+```
+Run them locally 
+
+```bash
+  nodemon index.js
+  #or 
+  node index.js
+```
+
+### Note - 
+1. You need to create a postgres Database with all the fields and tables provided in ``` server/src/ml_models/db ```
+
+2. Also you need to configure your .env accordingly with PostgreSQL information and Google Maps API key.
+
 ### Technology Stack
 
 - **Frontend:** ReactJS, TailwindCSS, Toastify
