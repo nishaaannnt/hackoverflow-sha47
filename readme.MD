@@ -14,13 +14,13 @@ Here are some project snapshots -
 
 ### Police Interface 
 
-![alt text](9a2281dc-9772-4caf-980a-9744283f7fb4.jpg)
-![alt text](6a91cc0f-69ae-418f-8fb7-bbdca4341d2e.jpg)
-![alt text](7671a0fe-106b-4192-b727-9aa843be082a.jpg)
+![alt text](public/9a2281dc-9772-4caf-980a-9744283f7fb4.jpg)
+![alt text](public/6a91cc0f-69ae-418f-8fb7-bbdca4341d2e.jpg)
+![alt text](public/7671a0fe-106b-4192-b727-9aa843be082a.jpg)
 ### Camer Owner Interface 
 
-![alt text](3454a042-7566-4f36-a390-e754379d8854.jpg)
-![alt text](eef29611-df9e-432a-ac66-63a765518166.jpg)
+![alt text](public/3454a042-7566-4f36-a390-e754379d8854.jpg)
+![alt text](public/eef29611-df9e-432a-ac66-63a765518166.jpg)
 
 
 ### Challenges
